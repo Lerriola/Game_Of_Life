@@ -38,7 +38,7 @@ Enjoy!
 
 ### Game instructions
 
-You can draw blocs on the grid simply by leftclicking on them. In order to draw a set of them you have to press any key on the keybord and the game will stop, then you will be able to draw as many blocs as you want.
+You can draw blocs on the grid simply by leftclicking on them. In order to draw a set of them you have to press any key on the keybord and the game will stop, then you will be able to draw as many blocs as you want. To resume the game just press again any key.
 
 There are some insteresting cell configurations to play with as shown below:
 
