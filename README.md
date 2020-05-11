@@ -19,7 +19,7 @@ python3 -m pip install -U pygame --user
 The --user flag indicates python to install Pygame into the home directory rather than globaly.
 
 
-Once you've installed Pygame simply executed as a python file:
+Once you've installed Pygame simply execute it as a python file:
 
 ```
 python GameOfLife.py
