@@ -12,17 +12,16 @@ In order to execute this file you will need python, which will likely come pre-i
 You will also need Pygame which doesn't come pre-installed.
 To install Pygame simple run the following comand on your terminal:
 
-´´´
-python3 -m pip install -U pygame --user
-´´´
+```python3 -m pip install -U pygame --user
+```
+
 The --user flag indicates python to install Pygame into the home directory rather than globaly.
 
 
 Once you've installed Pygame simply executed as a python file:
 
-´´´
-python GameOfLife.py
-´´´
+```python GameOfLife.py
+```
 
 The game interface should appear now.
 Enjoy!
