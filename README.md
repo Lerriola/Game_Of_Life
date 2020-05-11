@@ -5,9 +5,9 @@ Conway recently died due to Covid-19, so I decided to implement his game with py
 
 The Game of life has really simple rules, each and every cell of the grid is oblidge to them:
 
-1: ***A dead cell revives if it has exactly 3 live neighbour cells.***
+1: ***A dead cell revives if it has exactly 3 alive neighbour cells.***
 
-2: ***If a live cell has 3 or less neighbour cells it will die.***
+2: ***If an alive cell has 3 or less neighbour cells it will die.***
 
 Feel free to play around with these "core rules", there are many insteresting variations. 
      
