@@ -5,11 +5,32 @@ Conway recently died due to Covid-19, so I decided to implement his game with py
 
 The code is partly inspired on a youtube video by Dot Csv.
 
+
+# Set Up
+
+In order to execute this file you will need python, which will likely come pre-installed in most linux distributions.
+You will also need Pygame which doesn't come pre-installed.
+To install Pygame simple run the following comand on your terminal:
+
+´´´
+python3 -m pip install -U pygame --user
+´´´
+The --user flag indicates python to install Pygame into the home directory rather than globaly.
+
+
+Once you've installed Pygame simply executed as a python file:
+
+´´´
+python GameOfLife.py
+´´´
+
+The game interface should appear now.
+Enjoy!
+
 # Game Instructions
 
-In this repo you can find the python script for the game plus an already compiled .exe executable.
-Once you have executed the game either executing the .exe file or running it as a .py file, in wich case you will have to pre-install pygame and numpy libraries if you haven't already.
+You can draw blocs on the grid simply by leftclicking on them. In order to draw a set of them you have to press any key on the keybord and the game will stop, then you will be able to draw as many blocs as you want.
 
-Press any key to stop and draw with your mouse by cliking wherever you want and then press any key again to make the cells interact with each other.
+
 
 
