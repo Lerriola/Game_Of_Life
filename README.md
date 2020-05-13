@@ -13,7 +13,7 @@ The Game of life has really simple rules, each and every cell of the grid is obl
 
 Feel free to play around with these "core rules", there are many insteresting variations. 
      
-The code is partly inspired on a youtube video by Dot Csv.
+The code is partly inspired on a youtube video by [Dot Csv](https://www.youtube.com/channel/UCy5znSnfMsDwaLlROnZ7Qbg).
 
 ### Set up
 
