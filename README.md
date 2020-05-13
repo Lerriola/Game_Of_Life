@@ -3,7 +3,7 @@
 The Game of Life is a simple cellular automaton simulation that was devised by mathematician Jhon Horton Conway in 1970. 
 Conway recently died due to Covid-19, so I decided to implement his game with pygame. Conway was an awesome mathematician, appart from his extensive contributions to game theory he has appeared in many videos of [numberphile](https://www.youtube.com/channel/UCoxcjq-8xIDTYp3uz647V5A) which is a great youtube channel I follow.
 
-The Game of life has really simple rules, each and every cell of the grid is oblidge to them:
+The Game of life has really simple rules, each and every cell of the grid is oblidged to them:
 
 1: ***Any live cell with two or three live neighbours survives.***
 
