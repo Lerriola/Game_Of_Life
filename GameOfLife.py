@@ -12,6 +12,9 @@ import random
 
 pygame.init();
 
+programIcon = pygame.image.load('Icon.png')
+pygame.display.set_icon(programIcon)
+
 width, height = 1000, 1000
 screen = pygame.display.set_mode((height,width))
 pygame.display.set_caption("Game Of Life")
